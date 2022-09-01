@@ -1,9 +1,9 @@
 # Predict-Bank-Customer-s-Leaving
-## Buy using Tensorflow and Keras this model is going to predic if a customer is going to leave his Bank whithin the next 6 month.
+## Using Tensorflow and Keras, this model is going to predic if a customer is going to leave his Bank whithin the next 6 month.
 
-### As an example we are going to predict if the customer Jhon White has or has not high probability to leave the this Bank. Those are the informations we have about him:
+### As an example we are going to predict if the customer Jhon White has or has not high probability to leave this Bank. Those are the informations we have about him:
 
-###    Has a French nationality
+###    He's a French citizen
 ###    Credit Score: 600
 ###    Gender: Male
 ###    Age: 40
